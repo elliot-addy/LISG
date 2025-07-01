@@ -1,6 +1,8 @@
 LISGs for kernel methods in high dimensions
 ===========================================
 
+########################### STILL IN DEVELOPMENT ##############################
+
 Description:
 This project contains the files used to generate the data for the figures in
 arXiv:2506.07797 'Lengthscale-informed sparse grids for kernel methods in high
