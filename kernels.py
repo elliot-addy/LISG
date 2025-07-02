@@ -13,7 +13,7 @@ def main():
 	'''
 	
 	# Kernel parameters.
-	nu = 'inf'
+	nu = 1.5
 	sigma = 2
 	lengthscale = 3
 
